@@ -9,7 +9,7 @@
 
 **☁️ AKATSUKI · WEB DIVISION ☁️**
 
-<sub>IT graduate · aspiring web developer · Siargai, Philippines</sub>
+<sub>IT graduate · aspiring web developer · Siargao, Philippines</sub>
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   I'm <b>Othniel</b> — known in the shadows as <b>Oatmeal</b> — an IT graduate and aspiring
-  web developer from <b>Siargai, Philippines</b>. I build clean, responsive interfaces and the
+  web developer from <b>Siargao, Philippines</b>. I build clean, responsive interfaces and the
   logic behind them, one mission at a time.<br />
   <i>My nindo: ship small, learn fast, and never leave a bug alive.</i>
 </p>
@@ -28,7 +28,7 @@
 |:---:|:---|
 | **Name** | Othniel — *"Oatmeal"* |
 | **Rank** | Chūnin of Code · IT Graduate → Aspiring Web Developer |
-| **Village** | Siargai, Philippines 🇵🇭 |
+| **Village** | Siargao, Philippines 🇵🇭 |
 | **Specialty** | Front-end genjutsu · Back-end ninjutsu |
 | **Bounty** | 30,000,000 ryō — wanted for shipping clean code |
 | **Status** | Active · open to missions (internships & junior roles) |
